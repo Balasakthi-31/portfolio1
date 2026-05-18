@@ -1,0 +1,146 @@
+# 🌟 BalaSakthi Portfolio Website
+
+Welcome to my personal portfolio website built using **HTML, CSS, and JavaScript**.  
+This portfolio showcases my projects, achievements, certifications, coding profiles, and technical skills.
+
+---
+
+# 🚀 Features
+
+✅ Responsive Modern UI  
+✅ Animated Sections  
+✅ About Me Section  
+✅ Skills Showcase  
+✅ Projects Gallery  
+✅ Internship & Experience  
+✅ Certifications Section  
+✅ LeetCode Achievements  
+✅ GitHub & Social Links  
+✅ Fullscreen Certificate Preview  
+✅ Timeline / Journey Section  
+✅ Dark Theme Portfolio  
+
+---
+
+# 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Design
+- Flexbox & Grid
+- Animations & Hover Effects
+
+---
+
+# 📂 Project Structure
+
+```bash
+project/
+│
+├── home.html
+├── github.html
+├── leetcode.html
+├── resume.html
+├── timeline.html
+│
+├── img/
+│   ├── profile images
+│   ├── certificates
+│   ├── badge images
+│   └── background images
+│
+└── README.md
+```
+
+---
+
+# 👨‍💻 About Me
+
+I am a Computer Science Engineering student passionate about:
+
+- Artificial Intelligence
+- Machine Learning
+- Web Development
+- Competitive Programming
+- Problem Solving
+
+---
+
+# 🏆 Achievements
+
+- 🛡️ Knight Badge on LeetCode
+- 💻 Solved 320+ LeetCode Problems
+- 📜 Multiple Certifications
+- 🚀 Built AI, Web & IoT Projects
+- 🎓 Completed Java Internship at Cognifyz Technologies
+
+---
+
+# 📚 Certifications
+
+- Programming in Java
+- Introduction to Generative AI
+- OCI AI Foundations Associate
+- OCI Foundations Associate
+- DevOps on AWS
+- Full Stack Web Development
+- Gemini AI Certified Student
+- Cyber Security Webinar
+- Naan Mudhalvan EBPL Course
+
+---
+
+# 🔗 My Profiles
+
+## GitHub
+https://github.com/balasakthi-31
+
+## LinkedIn
+https://www.linkedin.com/in/balasakthi-r-114356381
+
+## LeetCode
+https://leetcode.com/u/Balasakthi_R/
+
+---
+
+# 📸 Gallery
+
+The portfolio includes:
+
+- Internship Certificates
+- Coding Badges
+- Event Participation
+- Hackathon Achievements
+- Technical Certifications
+
+---
+
+# ⚡ How to Run
+
+1. Download the project
+2. Open the folder in VS Code
+3. Run `home.html`
+
+OR
+
+Use Live Server Extension in VS Code.
+
+---
+
+# 🌐 Future Improvements
+
+- Add Backend Contact Form
+- Add Blog Section
+- Add Visitor Counter
+- Add Dark/Light Theme Toggle
+- Add Project Live Demo Links
+
+---
+
+# ❤️ Developed By
+
+## BalaSakthi R
+
+Computer Science Engineering Student  
+Passionate Developer & Problem Solver 🚀
